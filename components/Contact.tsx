@@ -414,7 +414,7 @@ export default function Contact() {
         }
       `}</style>
 
-      <section ref={sectionRef} className="ct ct-section">
+      <section id="contact" ref={sectionRef} className="ct ct-section">
 
         {/* ── HEADLINE on light bg ─────────────────────────────────── */}
         <div ref={headlineRef} className="ct-headline">

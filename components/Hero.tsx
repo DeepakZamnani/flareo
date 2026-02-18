@@ -87,7 +87,7 @@ export default function Hero() {
         playsInline
         preload="auto"
       >
-        <source src="/videos/hero.webm" type="video/webm" />
+        <source src="/videos/0215.mov" type="video/mp4" />
       </video>
 
       {/* Dark overlay */}

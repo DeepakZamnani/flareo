@@ -1300,7 +1300,7 @@ export default function ThreeDViewer() {
         }
       `}</style>
 
-      <section className="tdv">
+      <section id="demo" className="tdv">
 
         {/* TOP BAR */}
         <div className="tdv-top">
